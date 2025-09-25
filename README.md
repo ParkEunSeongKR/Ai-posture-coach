@@ -26,7 +26,18 @@
   * **Python**: 메인 프로그래밍 언어 
   * **OpenCV**: 웹캠 영상 처리 및 화면 출력 
   * **MediaPipe**: 구글의 오픈소스 ML 솔루션으로, 신체 랜드마크를 추정하는 데 사용 
-  * **(Optional) Tkinter**: 시작/종료 버튼 등 간단한 GUI 구현 
+  * **(Optional) Tkinter**: 시작/종료 버튼 등 간단한 GUI 구현
+
+📂 프로젝트 구조 (Project Structure)
+ai-posture-coach/
+├── src/                  # 👈 메인 소스 코드가 있는 폴더
+│   └── main.py
+├── data/                 # 👈 (선택 사항) 데이터셋, CSV 파일 등
+├── docs/                 # 👈 (선택 사항) 프로젝트 관련 문서
+├── .gitignore            # 👈 Git이 추적하지 않을 파일 목록
+├── LICENSE               # 👈 프로젝트 라이선스
+├── README.md             # 👈 프로젝트 설명서 (현재 파일)
+└── requirements.txt      # 👈 필요한 라이브러리 목록     
 
 ## 🚀 시작하기 (Getting Started)
 
