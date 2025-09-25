@@ -1,19 +1,6 @@
-## 캡스톤 디자인 프로젝트 README.md
-
-네, 제공해주신 상세한 프로젝트 계획서를 바탕으로 GitHub 저장소에 바로 사용할 수 있는 완벽한 README.md 파일을 만들어 드리겠습니다. 아래 내용을 복사해서 `README.md` 파일에 붙여넣기만 하면 됩니다.
-
------
-
 # 🏋️‍♂️ AI Posture Coach (실시간 자세 교정 AI 코치)
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Python-3.7+-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/Python-3.7%2B-blue.svg)" alt="Python Version"\>
-\<img src="[https://img.shields.io/badge/OpenCV-4.x-green.svg](https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-4.x-green.svg)" alt="OpenCV Version"\>
-\<img src="[https://img.shields.io/badge/MediaPipe-0.8+-orange.svg](https://www.google.com/search?q=https://img.shields.io/badge/MediaPipe-0.8%2B-orange.svg)" alt="MediaPipe Version"\>
-\<img src="[https://img.shields.io/badge/license-MIT-lightgrey.svg](https://www.google.com/search?q=https://img.shields.io/badge/license-MIT-lightgrey.svg)" alt="License"\>
-\</p\>
-
-[cite\_start]`AI Posture Coach`는 웹캠을 통해 사용자의 자세를 실시간으로 분석하고, 나쁜 자세일 경우 즉각적인 피드백을 제공하여 바른 자세를 유지하도록 돕는 데스크톱 애플리케이션입니다. [cite: 1] [cite\_start]이 프로젝트는 장시간 앉아서 생활하는 현대인들의 고질적인 문제인 거북목과 굽은 허리를 예방하는 것을 목표로 합니다. [cite: 6, 7]
+`AI Posture Coach`는 웹캠을 통해 사용자의 자세를 실시간으로 분석하고, 나쁜 자세일 경우 즉각적인 피드백을 제공하여 바른 자세를 유지하도록 돕는 데스크톱 애플리케이션입니다. 이 프로젝트는 장시간 앉아서 생활하는 현대인들의 고질적인 문제인 거북목과 굽은 허리를 예방하는 것을 목표로 합니다.
 
 <br>
 &lt;p align=&quot;center&quot;&gt;
