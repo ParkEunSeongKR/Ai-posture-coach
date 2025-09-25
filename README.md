@@ -28,7 +28,7 @@
   * **MediaPipe**: 구글의 오픈소스 ML 솔루션으로, 신체 랜드마크를 추정하는 데 사용 
   * **(Optional) Tkinter**: 시작/종료 버튼 등 간단한 GUI 구현
 
-📂 프로젝트 구조 (Project Structure)
+## 📂 프로젝트 구조 (Project Structure)
 ai-posture-coach/
 ├── src/                  # 👈 메인 소스 코드가 있는 폴더
 │   └── main.py
