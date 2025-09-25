@@ -53,7 +53,7 @@ Ai-posture-coach/
 1.  **저장소 복제 (Clone)**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ai-posture-coach.git
+    git clone https://github.com/ParkEunSeongKR/Ai-posture-coach_capstone_project
     cd ai-posture-coach
     ```
 
