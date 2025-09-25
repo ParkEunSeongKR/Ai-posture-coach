@@ -2,15 +2,10 @@
 
 `AI Posture Coach`는 웹캠을 통해 사용자의 자세를 실시간으로 분석하고, 나쁜 자세일 경우 즉각적인 피드백을 제공하여 바른 자세를 유지하도록 돕는 데스크톱 애플리케이션입니다. 이 프로젝트는 장시간 앉아서 생활하는 현대인들의 고질적인 문제인 거북목과 굽은 허리를 예방하는 것을 목표로 합니다.
 
-<br>
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https_placehold.co/700x400?text=Project+Demo+GIF&quot; alt=&quot;Project Demo GIF&quot;&gt;
-&lt;/p&gt;
-<br>
 
 ## ✨ 주요 기능 (Features)
 
-  * [cite\_start]**실시간 자세 분석**: 웹캠 영상 위에서 사용자의 신체 주요 부위를 실시간으로 추적합니다. [cite: 9]
+  * **실시간 자세 분석**: 웹캠 영상 위에서 사용자의 신체 주요 부위를 실시간으로 추적합니다. [cite: 9]
   * [cite\_start]**2가지 핵심 자세 감지**: 거북목(Forward Head Posture)과 굽은 허리(Slumped Posture)를 중점적으로 탐지합니다. [cite: 5]
   * [cite\_start]**즉각적인 시각적 피드백**: 자세가 올바를 때는 화면 테두리가 **녹색**으로, 나빠졌을 때는 **빨간색**으로 변하여 사용자에게 즉각적인 신호를 줍니다. [cite: 32]
   * [cite\_start]**알림 기능 (구현 예정)**: 나쁜 자세가 일정 시간 이상 지속되면 소리나 텍스트 팝업으로 사용자에게 경고합니다. [cite: 37]
