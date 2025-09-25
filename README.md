@@ -1,1 +1,1 @@
-# posture_coach
+# ai_posture_coach
