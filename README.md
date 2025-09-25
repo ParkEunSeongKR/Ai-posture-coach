@@ -18,15 +18,15 @@
       * [cite\_start]**기준**: '귀-어깨' 선과 '어깨-고관절' 선 사이의 각도(CVA)를 측정합니다. [cite: 10]
       * [cite\_start]**경고**: 이 각도가 `50도 미만`일 경우 거북목으로 판단합니다. [cite: 12]
 2.  **굽은 허리 (Slumped Posture) 판단**
-      * [cite\_start]**기준**: '어깨-고관절-무릎' 사이의 각도를 측정합니다. [cite: 13]
-      * [cite\_start]**경고**: 이 각도가 `90도 미만`일 경우 굽은 허리로 판단합니다. [cite: 15]
+      * [cite\_start]**기준**: '어깨-고관절-무릎' 사이의 각도를 측정합니다. 
+      * [cite\_start]**경고**: 이 각도가 `90도 미만`일 경우 굽은 허리로 판단합니다. 
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-  * [cite\_start]**Python**: 메인 프로그래밍 언어 [cite: 24]
-  * [cite\_start]**OpenCV**: 웹캠 영상 처리 및 화면 출력 [cite: 24]
-  * [cite\_start]**MediaPipe**: 구글의 오픈소스 ML 솔루션으로, 신체 랜드마크를 추정하는 데 사용 [cite: 24]
-  * [cite\_start]**(Optional) Tkinter**: 시작/종료 버튼 등 간단한 GUI 구현 [cite: 39]
+  * **Python**: 메인 프로그래밍 언어 
+  * **OpenCV**: 웹캠 영상 처리 및 화면 출력 
+  * **MediaPipe**: 구글의 오픈소스 ML 솔루션으로, 신체 랜드마크를 추정하는 데 사용 
+  * **(Optional) Tkinter**: 시작/종료 버튼 등 간단한 GUI 구현 
 
 ## 🚀 시작하기 (Getting Started)
 
